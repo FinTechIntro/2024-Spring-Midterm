@@ -37,3 +37,8 @@
 8. How to calculate the pair address in `pairFor` function?
 9. What is arbitrage and how it works? How to calculate the reward?
 10. What is liquidity mining?
+
+## Security
+1. What is [DoS](https://consensys.github.io/smart-contract-best-practices/attacks/denial-of-service/) (Denial of Service) issue? Are there any real-world examples?
+2. What is reentrancy attack and examples of such vulnerability? How to mitigate the risk of potential exploit?
+3. What is front-run attack, how can it affect your transaction?
